@@ -19,6 +19,7 @@ namespace WindowsFormsApplication9
 
         private async void button1_Click(object sender, EventArgs e)
         {
+            //Test
             label1.Visible = true;
             button1.Enabled = false;
 
